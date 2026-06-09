@@ -1,150 +1,140 @@
 {
   "meta": {
-    "name": "Alex Rivera",
-    "firstName": "Alex",
-    "lastName": "Rivera",
-    "role": "Software Developer",
-    "tagline": "I build immersive, high-performance web experiences that feel alive.",
-    "location": "San Francisco, CA",
+    "name": "Sanskrati Agrawal",
+    "firstName": "Sanskrati",
+    "lastName": "Agrawal",
+    "role": "Senior Software Engineer (Front End)",
+    "tagline": "Building scalable, high-performance web applications with modern frontend technologies.",
+    "location": "Hyderabad, India",
     "available": true,
     "resumeUrl": "#"
   },
   "hero": {
-    "kicker": "Software Developer / Creative Engineer",
-    "headline": ["Crafting", "digital", "experiences"],
-    "rotatingWords": ["interfaces", "experiences", "interactions", "products", "worlds"],
-    "intro": "Full-stack engineer specializing in performant front-ends, real-time systems, and 3D web. I turn ambitious ideas into pixel-perfect, buttery-smooth realities."
+    "kicker": "Senior Frontend Engineer / React Specialist",
+    "headline": ["Building", "modern", "web experiences"],
+    "rotatingWords": ["interfaces", "dashboards", "applications", "platforms", "products"],
+    "intro": "Frontend-focused software engineer specializing in React, TypeScript, scalable architectures, AI integrations, and high-performance user experiences. Passionate about crafting responsive and impactful digital products."
   },
   "about": {
     "heading": "About",
-    "lead": "I'm a software developer who lives at the intersection of engineering and design.",
+    "lead": "I'm a frontend engineer focused on building scalable, user-centric, and high-performance web applications.",
     "paragraphs": [
-      "For the past 6+ years I've shipped products used by millions — from real-time collaboration tools to data-heavy dashboards and interactive 3D web experiences. I care deeply about the details: the easing curve of an animation, the 60fps scroll, the millisecond shaved off a load time.",
-      "I work end-to-end: architecting scalable back-ends, sculpting delightful front-ends, and obsessing over the seams in between. When I'm not coding, I'm exploring generative art, contributing to open source, and mentoring junior devs."
+      "Over the years, I’ve worked across enterprise platforms, AI-powered products, merchandising systems, and real-time applications. I enjoy solving complex frontend challenges, optimizing performance, and creating seamless user experiences with React and modern web technologies.",
+      "I work closely with cross-functional teams to architect scalable solutions, lead proof-of-concept initiatives, and deliver polished products. Beyond development, I enjoy mentoring teams, exploring AI tools and GenAI, and continuously learning emerging technologies."
     ],
     "stats": [
-      { "value": "6+", "label": "Years of experience" },
-      { "value": "40+", "label": "Projects shipped" },
-      { "value": "12M+", "label": "Users reached" },
-      { "value": "18", "label": "Open-source repos" }
+      { "value": "5+", "label": "Years of experience" },
+      { "value": "20+", "label": "Projects delivered" },
+      { "value": "3", "label": "Top tech companies" },
+      { "value": "10+", "label": "Frontend technologies" }
     ]
   },
   "experience": [
     {
       "id": "exp-1",
-      "year": "2023 — Present",
+      "year": "03/2026 — Present",
       "role": "Senior Software Engineer",
-      "company": "Nebula Labs",
-      "location": "San Francisco, CA",
-      "summary": "Lead front-end architect for a real-time analytics platform serving 5M+ daily users.",
+      "company": "EPAM",
+      "location": "Hyderabad, India",
+      "summary": "Working as a ServiceNow Developer (Level III) to build scalable and centralized enterprise service platforms.",
       "highlights": [
-        "Rebuilt the rendering pipeline, cutting time-to-interactive by 62%",
-        "Designed a WebGL data-visualization engine handling 1M+ points at 60fps",
-        "Mentored a team of 6 engineers and led the design-system initiative"
+        "Designed and developed centralized platforms for accessing multiple enterprise services",
+        "Implemented features for incident management, user support, and service requests",
+        "Built scalable and user-friendly workflows improving operational efficiency"
       ],
-      "stack": ["React", "TypeScript", "WebGL", "Rust", "GraphQL"]
+      "stack": ["React", "TypeScript", "ServiceNow", "JavaScript", "Enterprise Applications"]
     },
     {
       "id": "exp-2",
-      "year": "2021 — 2023",
-      "role": "Full-Stack Engineer",
-      "company": "Orbit Studio",
-      "location": "Remote",
-      "summary": "Built interactive marketing sites and product experiences for Fortune-500 clients.",
+      "year": "08/2022 — 02/2026",
+      "role": "Senior Software Engineer",
+      "company": "Unbxd Inc. (A Netcore Company)",
+      "location": "Bangalore, India",
+      "summary": "Developed scalable frontend solutions, merchandising platforms, and AI-powered customer experiences.",
       "highlights": [
-        "Shipped 20+ award-considered interactive experiences",
-        "Created a reusable Three.js component library adopted company-wide",
-        "Drove Core Web Vitals to green across the entire client portfolio"
+        "Led proof-of-concept (POC) initiatives and independently managed projects",
+        "Developed reusable npm libraries and optimized application performance",
+        "Built merchandising consoles, recommendation systems, and shopping assistant features",
+        "Enhanced platform scalability, reducing load times by 40%",
+        "Implemented customizable templates and segmentation systems improving engagement"
       ],
-      "stack": ["Next.js", "Three.js", "Node.js", "GSAP", "PostgreSQL"]
+      "stack": ["React", "TypeScript", "SCSS", "Redux", "Node.js", "GraphQL", "Tailwind CSS"]
     },
     {
       "id": "exp-3",
-      "year": "2019 — 2021",
-      "role": "Front-End Developer",
-      "company": "Pixel Forge",
-      "location": "Austin, TX",
-      "summary": "Crafted pixel-perfect interfaces and design systems for early-stage startups.",
+      "year": "10/2020 — 08/2022",
+      "role": "System Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "Mumbai, India",
+      "summary": "Worked on customer-facing applications and communication systems as part of the core engineering team.",
       "highlights": [
-        "Built the company's first component library and Storybook docs",
-        "Reduced bundle size by 45% through code-splitting and tree-shaking",
-        "Collaborated with designers to ship 30+ production features"
+        "Maintained and enhanced enterprise applications with new features",
+        "Managed communication channels for customer applications",
+        "Collaborated across teams for scalable application development",
+        "Worked on client proof-of-concept (POC) implementations",
+        "Architected applications with senior engineers and architects"
       ],
-      "stack": ["React", "Redux", "Sass", "Figma", "Jest"]
-    },
-    {
-      "id": "exp-4",
-      "year": "2018 — 2019",
-      "role": "Junior Developer",
-      "company": "Freelance",
-      "location": "Worldwide",
-      "summary": "Where it all began — building websites and apps for small businesses and creators.",
-      "highlights": [
-        "Delivered 15+ client projects from concept to launch",
-        "Learned to wear every hat: design, dev, deploy, and support",
-        "Fell in love with the craft of front-end engineering"
-      ],
-      "stack": ["JavaScript", "HTML", "CSS", "WordPress", "PHP"]
+      "stack": ["React", "JavaScript", "TypeScript", "HTML", "CSS", "GitHub", "Jira"]
     }
   ],
   "skills": [
     {
       "category": "Frontend",
       "items": [
-        { "name": "React", "level": 95 },
+        { "name": "React.js", "level": 95 },
         { "name": "TypeScript", "level": 92 },
         { "name": "Next.js", "level": 88 },
-        { "name": "Tailwind CSS", "level": 94 }
+        { "name": "Tailwind CSS", "level": 90 }
       ]
     },
     {
-      "category": "Creative / 3D",
+      "category": "State Management & APIs",
       "items": [
-        { "name": "Three.js", "level": 90 },
-        { "name": "GLSL Shaders", "level": 78 },
-        { "name": "GSAP", "level": 88 },
-        { "name": "Framer Motion", "level": 90 }
-      ]
-    },
-    {
-      "category": "Backend",
-      "items": [
-        { "name": "Node.js", "level": 87 },
-        { "name": "Rust", "level": 70 },
+        { "name": "Redux", "level": 90 },
+        { "name": "Redux Saga", "level": 85 },
         { "name": "GraphQL", "level": 82 },
-        { "name": "PostgreSQL", "level": 80 }
+        { "name": "Socket.io", "level": 80 }
+      ]
+    },
+    {
+      "category": "Backend & AI",
+      "items": [
+        { "name": "Node.js", "level": 78 },
+        { "name": "Gen AI", "level": 75 },
+        { "name": "LLM", "level": 72 },
+        { "name": "AI Tools", "level": 85 }
       ]
     },
     {
       "category": "Tooling",
       "items": [
-        { "name": "Vite", "level": 90 },
-        { "name": "Docker", "level": 78 },
-        { "name": "AWS", "level": 75 },
-        { "name": "Git", "level": 93 }
+        { "name": "Git", "level": 92 },
+        { "name": "GitHub", "level": 92 },
+        { "name": "Team Management", "level": 84 },
+        { "name": "Problem Solving", "level": 90 }
       ]
     }
   ],
   "projects": [
     {
       "id": "proj-1",
-      "title": "Helios Dashboard",
-      "category": "Data Visualization",
-      "year": "2024",
-      "description": "A real-time analytics dashboard rendering millions of data points with a custom WebGL engine. Buttery 60fps interactions at any scale.",
-      "tags": ["React", "WebGL", "D3", "Rust"],
+      "title": "Video Conferencing Application",
+      "category": "Real-Time Communication",
+      "year": "2025",
+      "description": "Built a real-time video conferencing application using Next.js, TailwindCSS, Clerk authentication, and Stream API with support for live video/audio communication, screen sharing, and real-time messaging.",
+      "tags": ["Next.js", "TailwindCSS", "Stream API", "Clerk"],
       "color": "#7c3aed",
-      "link": "#",
+      "link": "https://yoom-zv9v-h9jwsp548-sanskrati-agrawals-projects.vercel.app/",
       "repo": "#",
       "featured": true
     },
     {
       "id": "proj-2",
-      "title": "Lumen",
-      "category": "3D Web Experience",
+      "title": "AI Demo Site",
+      "category": "AI Platform",
       "year": "2024",
-      "description": "An immersive product showcase built with Three.js — interactive 3D models, physically-based materials, and cinematic scroll-driven storytelling.",
-      "tags": ["Three.js", "GLSL", "GSAP", "Next.js"],
+      "description": "Developed an AI demonstration platform showcasing company AI capabilities with interactive UI powered by AI APIs for enhanced customer engagement.",
+      "tags": ["React", "SCSS", "AI APIs", "Frontend"],
       "color": "#06b6d4",
       "link": "#",
       "repo": "#",
@@ -152,23 +142,23 @@
     },
     {
       "id": "proj-3",
-      "title": "Pulse Chat",
-      "category": "Real-Time App",
-      "year": "2023",
-      "description": "A real-time collaboration platform with sub-100ms latency, presence, and CRDT-based conflict-free editing for thousands of concurrent users.",
-      "tags": ["WebSockets", "Node.js", "Redis", "React"],
+      "title": "Code Share",
+      "category": "Real-Time Collaboration",
+      "year": "2024",
+      "description": "Developed a real-time code-sharing platform with responsive frontend architecture using React.js and TailwindCSS.",
+      "tags": ["React", "TailwindCSS", "Real-Time", "Collaboration"],
       "color": "#ec4899",
-      "link": "#",
+      "link": "https://code-share410.netlify.app/",
       "repo": "#",
       "featured": false
     },
     {
       "id": "proj-4",
-      "title": "Verdant",
-      "category": "Design System",
+      "title": "Phoenix Merchandiser Console",
+      "category": "E-commerce Platform",
       "year": "2023",
-      "description": "A themeable, accessible component library with 80+ primitives, full keyboard support, and zero-runtime styling. Adopted across 4 product teams.",
-      "tags": ["React", "TypeScript", "Radix", "Storybook"],
+      "description": "Developed merchandising tools, A/B testing UI, preview systems, and product insight features that improved marketing efficiency and user engagement.",
+      "tags": ["React", "Node.js", "Analytics", "E-commerce"],
       "color": "#10b981",
       "link": "#",
       "repo": "#",
@@ -176,11 +166,11 @@
     },
     {
       "id": "proj-5",
-      "title": "Cosmos",
-      "category": "Generative Art",
-      "year": "2022",
-      "description": "A generative art playground that turns audio into living particle galaxies using the Web Audio API and instanced GPU rendering.",
-      "tags": ["Three.js", "Web Audio", "GLSL"],
+      "title": "Workbench",
+      "category": "Shopping Experience",
+      "year": "2023",
+      "description": "Built customizable template-based UI systems, shopping assistant components, recommendation SDK integrations, and visual search enhancements.",
+      "tags": ["React", "Recommendations SDK", "UI", "Personalization"],
       "color": "#f59e0b",
       "link": "#",
       "repo": "#",
@@ -188,11 +178,11 @@
     },
     {
       "id": "proj-6",
-      "title": "Drift",
-      "category": "Mobile App",
-      "year": "2022",
-      "description": "A meditation and focus app with fluid gesture-driven navigation, offline-first sync, and a custom animation runtime for 120fps transitions.",
-      "tags": ["React Native", "Reanimated", "SQLite"],
+      "title": "Customer Communication Platform",
+      "category": "Enterprise Application",
+      "year": "2021",
+      "description": "Worked on enterprise customer communication applications and scalable frontend systems during tenure at TCS.",
+      "tags": ["React", "TypeScript", "Enterprise", "Frontend"],
       "color": "#3b82f6",
       "link": "#",
       "repo": "#",
@@ -200,14 +190,14 @@
     }
   ],
   "contact": {
-    "heading": "Let's build something extraordinary",
-    "subheading": "Have a project in mind or just want to say hi? My inbox is always open.",
-    "email": "alex.rivera@example.com",
-    "phone": "+1 (555) 012-3456",
-    "phoneHref": "+15550123456",
+    "heading": "Let's build impactful digital experiences",
+    "subheading": "Open to exciting opportunities, collaborations, and innovative frontend projects.",
+    "email": "sanskratiagrawal306@gmail.com",
+    "phone": "+91 6268386674",
+    "phoneHref": "+916268386674",
     "socials": {
-      "github": "https://github.com/alexrivera",
-      "linkedin": "https://linkedin.com/in/alexrivera"
+      "github": "https://github.com/sanskrati-1234",
+      "linkedin": "https://linkedin.com/in/sanskrati306"
     }
   }
 }
